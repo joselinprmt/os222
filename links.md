@@ -14,6 +14,8 @@ permalink: LINKS/
 
 # LINKS
 
+## WEEK 1
+
 1. [How to Use Regular Expressions (RegEx) on Linux, by geeksforgeeks.](https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/)<br>
 A simple tutorial about regular expressions,<br>
 It has a good explanation and straightforward in my opinion :D<br>
@@ -23,6 +25,20 @@ More in depth explanation and easy to follow.<br>
 
 3. [101 Linux Commands Every User Should Know.](https://linuxhint.com/101-linux-commands/)<br>
 Its pretty nice to have a list of commands that often used on linux.<br>
+
+## WEEK 2
+
+1. [How To Use GPG to Encrypt and Sign Messages, by Digital Ocean.](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)<br>
+An explanation about GNU Privacy Guard as a form of security when communicating,<br>
+It contains set up a GnuPG and how to use it for encrypting and signing messages, pretty cool knowing the benefit of using these.<br>
+
+2. [Understanding File Permissions, by Elated.](https://www.elated.com/understanding-permissions/#:~:text=drwxr%2Dxr%2Dx,group%20and%20for%20other%20users.)<br>
+When viewing file or directories on linux, we often see string of words like -rw-r--r--, located on the most left every line.<br>
+The blog covers of what that letters means and how to setting or changing these permissions.<br>
+
+3. [Tarballs, the ultimate container image format.](https://guix.gnu.org/blog/2018/tarballs-the-ultimate-container-image-format/)<br>
+A simple explanation about Tarball, comparing to other format like  Snap, Flatpak, Docker, & co<br>
+
 
 <br>
 <hr>
