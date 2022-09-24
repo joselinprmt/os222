@@ -39,6 +39,15 @@ The blog covers of what that letters means and how to setting or changing these 
 3. [Tarballs, the ultimate container image format.](https://guix.gnu.org/blog/2018/tarballs-the-ultimate-container-image-format/)<br>
 A simple explanation about Tarball, comparing to other format like  Snap, Flatpak, Docker, & co<br>
 
+## WEEK 3
+
+1. [Creating Virtual Disks Using Linux Command Line.](https://www.linuxandubuntu.com/home/creating-virtual-disks-using-linux-command-line)<br>
+An article about how to creating virtual disks using linux command line,<br>
+Its has simple explanation if you need to know more about this week assignment.<br>
+
+2. [VDI Vs VHD Vs VMDK: Learn the Different Virtual Disk Formats.](parallels.com/blogs/ras/vdi-vs-vhd-vs-vmdk/)<br>
+When we first initialized the virtual disk for this week assignment, we need to choose the format of the disk.<br>
+If you wanna learn more about the difference of those formats, his blog got you covered.<br>
 
 <br>
 <hr>
