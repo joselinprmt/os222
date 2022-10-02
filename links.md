@@ -49,6 +49,16 @@ Its has simple explanation if you need to know more about this week assignment.<
 When we first initialized the virtual disk for this week assignment, we need to choose the format of the disk.<br>
 If you wanna learn more about the difference of those formats, this blog got you covered.<br>
 
+## WEEK 4
+
+1. [Review: The Linux Programming Interface.](https://lwn.net/Articles/423417/)<br>
+A review about Michael Kerrisk's book, The Linux Programming Interface (TLPI),<br>
+It provide a recap about TLPI's book if you interested more about this weeks assignment.<br>
+
+2. [Beginner’s Guide to Linux Programming](https://www.simplilearn.com/linux-programming-for-beginners-article)<br>
+A simple blog about linux programming for beginner.<br>
+Great read if you wanna know more about the concept and the uses of linux programming.<br>
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
