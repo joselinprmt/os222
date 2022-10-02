@@ -55,7 +55,7 @@ If you wanna learn more about the difference of those formats, this blog got you
 A review about Michael Kerrisk's book, The Linux Programming Interface (TLPI),<br>
 It provide a recap about TLPI's book if you interested more about this weeks assignment.<br>
 
-2. [Beginner’s Guide to Linux Programming](https://www.simplilearn.com/linux-programming-for-beginners-article)<br>
+2. [Beginner's Guide to Linux Programming](https://www.simplilearn.com/linux-programming-for-beginners-article)<br>
 A simple blog about linux programming for beginner.<br>
 Great read if you wanna know more about the concept and the uses of linux programming.<br>
 
