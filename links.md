@@ -59,6 +59,17 @@ It provide a recap about TLPI's book if you interested more about this weeks ass
 A simple blog about linux programming for beginner.<br>
 Great read if you wanna know more about the concept and the uses of linux programming.<br>
 
+## WEEK 5
+
+1. [What to do in case of a Linux kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)<br>
+This article is about linux kernel panic and how to avoid it,<br>
+Interesting read and its related to this weeks assignments.<br>
+
+2. [Things To Know About Linux Kernel Panic](https://www.linuxandubuntu.com/home/things-to-know-about-linux-kernel-panic)<br>
+More reading about kernel panic, it has explanation about the cause and effect.<br>
+Still related to this week task, and has a good explanation.<br>
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
