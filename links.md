@@ -69,6 +69,16 @@ Interesting read and its related to this weeks assignments.<br>
 More reading about kernel panic, it has explanation about the cause and effect.<br>
 Still related to this week task, and has a good explanation.<br>
 
+## WEEK 6
+
+1. [Fork System call in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This article is about fork system call in C,<br>
+It has a good explanation, including coding demonstrations.<br>
+
+2. [Wait System Call in C](https://www.linuxandubuntu.com/home/things-to-know-about-linux-kernel-panic)<br>
+More reading about wait system call in C language.<br>
+Related to this weeks topic, and easy to understand because it includes the programs flow chart and diagram.<br>
+
 
 <br>
 <hr>
