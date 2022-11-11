@@ -79,6 +79,16 @@ It has a good explanation, including coding demonstrations.<br>
 More reading about wait system call in C language.<br>
 Related to this weeks topic, and easy to understand because it includes the programs flow chart and diagram.<br>
 
+## WEEK 7
+
+1. [Kernel Synchronization](https://www.cs.utexas.edu/~witchel/372/lectures/12.KernelSync.pdf)<br>
+This is an article about Kernel Synchronization,<br>
+Has a straight forward explanation if youre interested more on this weeks topic.<br>
+
+2. [Code repository for Linux Kernel Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming-Part-2)<br>
+This repository contains code demonstrations for Linux Kernel Programming Part 2, published by Packt.<br>
+This contains Char Device Drivers and Kernel Synchronization topic, which related to this weeks topic.<br>
+
 
 <br>
 <hr>
