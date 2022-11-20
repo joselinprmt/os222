@@ -59,5 +59,11 @@ ZCZC W07 50 L05 QUIZ related including studying
 ZCZC W07 100 L09 Weekly Assignments
 ZCZC W07 10 L41 TXT/mylog.txt related
 ZCZC W07 200 L99 Face-to-face lecture
-
+ZCZC W08 30 L00 General, etc.
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 50 L05 QUIZ related including studying
+ZCZC W08 300 L09 Weekly Assignments
+ZCZC W08 20 L41 TXT/mylog.txt related
+ZCZC W08 220 L99 Face-to-face lecture
 

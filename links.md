@@ -89,6 +89,16 @@ Has a straight forward explanation if youre interested more on this weeks topic.
 This repository contains code demonstrations for Linux Kernel Programming Part 2, published by Packt.<br>
 This contains Char Device Drivers and Kernel Synchronization topic, which related to this weeks topic.<br>
 
+## WEEK 8
+
+1. [Linux from Scratch](https://www.linuxfromscratch.org/)<br>
+The website that contains this week assignment, chapter 1-5 especially. <br>
+The web covers on how to build linux from scratch.<br>
+
+2. [Basic vi commands, A cheat sheet](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)<br>
+The article containing a basic vi commands that will help on how to use vi commands. <br>
+Its a good read if you often use vi, and will help you remember on how to use the commands correctly and presicely.<br>
+
 
 <br>
 <hr>
