@@ -99,6 +99,16 @@ The web covers on how to build linux from scratch.<br>
 The article containing a basic vi commands that will help on how to use vi commands. <br>
 Its a good read if you often use vi, and will help you remember on how to use the commands correctly and presicely.<br>
 
+## WEEK 9
+
+1. [GCC Linux](https://www.javatpoint.com/gcc-linux#:~:text=In%20Linux%2C%20the%20GCC%20stands,the%20C%20and%20C%2B%2B%20programs.)<br>
+The articles covers on GCC (GNU Compiler Collection) Linux, and its functions. <br>
+It explains about the GCC components, compiler process, and installations manual.<br>
+
+2. [chroot command in Linux with examples](https://www.geeksforgeeks.org/chroot-command-in-linux-with-examples/#:~:text=chroot%20command%20in%20Linux%2FUnix,well%20as%20its%20child%20processes.)<br>
+It explains about chroot commands in linux, which used on this week assignment. <br>
+The articles also explaining about the use of chroot command. For instance, to create a test environment, reinstall the bootloader, etc.<br>
+
 
 <br>
 <hr>
