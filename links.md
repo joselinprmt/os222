@@ -109,6 +109,12 @@ It explains about the GCC components, compiler process, and installations manual
 It explains about chroot commands in linux, which used on this week assignment. <br>
 The articles also explaining about the use of chroot command. For instance, to create a test environment, reinstall the bootloader, etc.<br>
 
+## WEEK 10
+
+1. [Operating Systems - Sistem Operasi, C. BinKadal](https://os.vlsm.org/)<br>
+The one and only, our main course web that contains references, lecture materials, exam questions, etc. <br>
+I feel like I need to put this here as a commemoration that we made it through this semester. I think thats a wrap. Thank you cbkadal :)<br>
+
 
 <br>
 <hr>
